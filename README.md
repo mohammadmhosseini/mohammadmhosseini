@@ -2,10 +2,10 @@
 # Hi there, I'm Mohammad Mahdi Hosseini 👋 
 
 - 👨‍💻 I’m currently working on [Online Shop](https://github.com/mohammadmhosseini/express-store-project) project.
-- 📚 I’m currently learning **Node.js & Express.js** and Backend technologies.
+- 📚 I’m currently learning Backend technologies.
 - 💪 My future goal: Learn new technologies and develop my skills.
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,redis,git,docker&perline=7)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=js,cs,dotnet,nodejs,express,mongodb,redis,git,docker&perline=9)](https://skillicons.dev)\
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
 ![sqlserver](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ## Connect with me
